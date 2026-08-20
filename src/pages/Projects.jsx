@@ -3,7 +3,7 @@ import "./Projects.css";
 import LoadingSpinner from "../components/LoadingSpinner";
 import ErrorMessage from "../components/ErrorMessage";
 
-const GITHUB_USERNAME = "24CS078-TRUSHA";
+const GITHUB_USERNAME = "24CS070-Pratham";
 
 function Projects() {
   const [repos, setRepos] = useState([]);
